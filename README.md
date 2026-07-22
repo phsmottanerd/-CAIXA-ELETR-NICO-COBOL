@@ -12,6 +12,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
    ██████╗  ██████╗ ██████╗  ██████╗ ██╗
   ██╔════╝ ██╔═══██╗██╔══██╗██╔═══██╗██║
   ██║      ██║   ██║██████╔╝██║   ██║██║
@@ -20,13 +30,6 @@
    ╚═════╝  ╚════╝  ╚═════╝  ╚═════╝ ╚═╝
 
 
-
-```
-        🦖
-       COBOL
-    The Dinosaur
-    That Runs Banks
-```
 
 > "Tecnologias antigas não significam tecnologias ultrapassadas.
 > Sistemas COBOL continuam movimentando o mundo financeiro."
